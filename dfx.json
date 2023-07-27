@@ -1,0 +1,24 @@
+{
+    "canisters": {
+      "day1": {
+        "main": "days/day-1/project/main.mo",
+        "type": "motoko"
+      },
+      "day2": {
+        "main": "days/day-2/project/main.mo",
+        "type": "motoko"
+      },
+      "day3": {
+        "main": "days/day-3/project/main.mo",
+        "type": "motoko"
+      },
+      "day4": {
+        "main": "days/day-4/project/main.mo",
+        "type": "motoko"
+      },
+      "day5": {
+        "main": "days/day-5/project/verifier/main.mo",
+        "type": "motoko"
+      }
+  }
+}
